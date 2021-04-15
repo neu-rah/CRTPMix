@@ -49,9 +49,9 @@ ex: we could create an Upcase part...
 */
 ```
 
-`Chain` template help make the mixin composition easier to write.
+`Chain` template helps making the mixin composition easier to write.
 
-`Composition` defined on to of `Chain` to provide an encapsilation and a terminating API
+`Composition` defined on top of `Chain` to provide an encapsulation and a terminating API
 
 Any composition part can then use:
 
