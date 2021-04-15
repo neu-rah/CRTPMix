@@ -1,0 +1,13 @@
+{
+  "name": "CRTPMix",
+  "keywords": "C++ CRTP + Nixins",
+  "description": "Composition and type level structures",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/neu-rah/CRTPMix",
+    "branch": "master"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
