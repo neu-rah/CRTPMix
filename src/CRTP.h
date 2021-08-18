@@ -22,7 +22,7 @@ namespace CRTPMix {
     using This=Composition<API,I...>;
     using Base::Base;
     template<typename... OO>
-    Composition(OO... oo):Base(oo...) {}
+    explicit Composition(OO... oo):Base(oo...) {}
   };
 
 };
